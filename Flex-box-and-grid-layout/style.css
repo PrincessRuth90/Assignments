@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    height: 50%;
+}
+.first-box{
+    background-color: 
+orange;
+    padding: 2em;
+    width: 100%;
+    color: 
+white;
+
+}
+.second-box{
+    background-color:
+rgb(126, 126, 216);
+    padding:2em;
+    width: 100%;
+    color: 
+white;
+}
+.third-box{
+    background-color: rgba(30, 73, 26, 0.986);
+    padding: 2em;
+    width: 100%;
+    color: white;
+}
+.luxury-buttons{
+    text-decoration: none;
+}
+.style-luxury{
+    border-radius: 30px;
+    padding: 20px;
+}
+.sedans-buttons{
+    text-decoration: none;
+    color: orange;
+}
+.style-sedans{
+    border-radius: 30px;
+    padding: 20px;
+}
+.suv-buttons{
+    text-decoration: none;
+    color: ;
+}
+.style-suv{
+    border-radius: 30px;
+    padding: 20px;
+}
+  
