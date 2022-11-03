@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(https://media.istockphoto.com/photos/abstract-shiny-surface-white-gray-background-picture-id1341630209?b=1&k=20&m=1341630209&s=170667a&w=0&h=i3UW_Rkj6tbmuAsWYzUQmybJIuFSF30ikoEN7cPCmek=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    margin: 0 auto;
+    width: max-content;
+    text-align: center;
+}
+.heading{
+    margin: 2em;
+    font-size: 3em;
+    font-weight: 900;
+}
+label{
+    font-weight: bold;
+    font-size: 1.8em;
+}
+input{
+    width: 100%;
+    margin: 1em;
+    height: 2.9em;
+    border-radius: 4px;
+}
+button{
+    width: 100%;
+    height: 2em;
+    margin: 5%;
+    padding: 1%;
+    border-radius: 5px;
+    font-size: 1.5em;
+    background-color: blue;
+    font-stretch: expanded;
+    color: white;
+    font-weight: bold;
+}
+/* a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+} */
